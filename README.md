@@ -1,3 +1,3 @@
-#Training Demo
+#Training
 
 Some training description
