@@ -1,3 +1,2 @@
 # Training
 
-Some training description
